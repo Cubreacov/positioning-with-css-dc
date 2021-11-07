@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Libre+Baskerville&display=swap');
 
 html {
-    background-color: #C67ACE;
+    background-color: #ebafd0;
     font-family: 'Libre Baskerville', serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -38,13 +38,13 @@ h2,h3 {
 }
 
 a {
-    color:#D8F8B7;
+    color:#5f1442;
     text-decoration: none;
 }
 
 a:hover {
     color: #FF9A8C;
-    background-color: darkcyan;
+    background-color: rgb(209, 152, 185);
     text-decoration: none;
 }
 
