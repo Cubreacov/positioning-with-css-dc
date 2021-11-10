@@ -54,6 +54,22 @@ footer {
     padding: 1em;
 }
 
+/*positioning rules start here*/
+
+.text-align-center {
+    text-align: center;
+    background-color: #fac4a0;
+}
+.margin-auto > div{
+margin:auto;
+width: 80%;
+background-color: aliceblue;
+text-align: center;
+
+}
+/*positioning rules end here*/
+
+
 /* Responsive rules */
 
 /* DESKTOP */
